@@ -33,20 +33,13 @@
 📬 <strong>Reach me at:</strong> renars_pi@inbox.lv
 </p>
 <p align="left">
-  <a href="https://store.steampowered.com/developer/yourname" target="_blank">
+  <a href="https://store.steampowered.com/app/3672820/GleanBound/" target="_blank">
     <img src="https://i.postimg.cc/zfLfsZjC/steam-icon-14883.png" alt="Steam" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://www.artstation.com/yourname" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/artstation/artstation-icon.svg" alt="ArtStation" width="30" />
-  </a>
-  <a href="https://yourname.itch.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Itch.io_logo.svg" alt="Itch.io" width="30" />
+  <a href="https://www.linkedin.com/notifications/?filter=all" target="_blank">
+    <img src="https://i.postimg.cc/KvZ8Zgfv/linkedin-logo-png-2026.png" alt="LinkedIn" width="30" />
   </a>
 </p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renchaa/Renchaa/output/github-snake-dark.svg" />
