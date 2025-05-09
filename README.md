@@ -32,6 +32,20 @@
 
 📬 <strong>Reach me at:</strong> renars_pi@inbox.lv
 </p>
+<p align="left">
+  <a href="https://store.steampowered.com/developer/yourname" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" alt="Steam" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://www.artstation.com/yourname" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/artstation/artstation-icon.svg" alt="ArtStation" width="30" />
+  </a>
+  <a href="https://yourname.itch.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Itch.io_logo.svg" alt="Itch.io" width="30" />
+  </a>
+</p>
 
 
 <picture>
