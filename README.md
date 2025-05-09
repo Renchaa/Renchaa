@@ -3,16 +3,36 @@
 <img align="right" height="180" src="https://media.giphy.com/media/l3E6F9xoxTabw3JYY/giphy.gif?cid=ecf05e47zk5fp1388a90iwdbvbuorv04b76e7t6jqjby1grf&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <p align="left">
-🎮 Currently building a horror maze runner game:<strong>GleanBound</strong><br>
-🏫 Studying Computer Science at: Univeristy of Latvia <br>
-🧠 Focusing on Unity/.Net development
+📌 <strong>Quick Facts About Me:</strong>
+<ul>
+  <li>🎮 Currently developingmy little porject a horror maze-runner game: <strong>GleanBound</strong></li>
+  <li>🎓 Studying Computer Science at the University of Latvia</li>
+  <li>🧠 Specializing in Unity and .NET development</li>
+</ul>
 </p>
 
+
 <p align="left">
-🛠️ <strong>Skills:</strong> Unity, C#, Shader Graph, NavMesh, Animation Rigging<br>
-📈 <strong>Learning:</strong> Custom AI pathfinding and event-driven trap systems<br>
-📬 <strong>Reach me at:</strong> rencha.dev@example.com
+🧰 <strong>Unity Game Dev:</strong>
+<ul>
+  <li>Unity SDRP/URP/HDRP</li>
+  <li>Particle system</li>
+  <li>VFX graph</li>
+  <li>Shader graph</li>
+</ul>
+
+🌐 <strong>Web App Development:</strong>
+<ul>
+  <li>C# / .NET Core</li>
+  <li>ASP.NET MVC</li>
+  <li>Entity Framework</li>
+  <li>SQL</li>
+  <li>Basic front-end integration (HTML/CSS/JS)</li>
+</ul>
+
+📬 <strong>Reach me at:</strong> renars_pi@inbox.lv
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renchaa/Renchaa/output/github-snake-dark.svg" />
