@@ -3,9 +3,9 @@
 <img align="right" height="180" src="https://media.giphy.com/media/l3E6F9xoxTabw3JYY/giphy.gif?cid=ecf05e47zk5fp1388a90iwdbvbuorv04b76e7t6jqjby1grf&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <p align="left">
-📌 <strong>Quick Facts About Me:</strong>
+📌 <strong>About Me:</strong>
 <ul>
-  <li>🎮 Currently developingmy little porject a horror maze-runner game: <strong>GleanBound</strong></li>
+  <li>🎮 Currently developing my little project a horror maze-runner game: <strong>GleanBound</strong></li>
   <li>🎓 Studying Computer Science at the University of Latvia</li>
   <li>🧠 Specializing in Unity and .NET development</li>
 </ul>
