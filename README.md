@@ -18,7 +18,7 @@
   </div>
 
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" alt="Maze Runner" width="250"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E5NGcyejYyenJwd2tnbzU3aXY2OHBrc3V0bW53Z3Q5NHFhMjZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IG0vkIQpuJoLvO/giphy.gif" alt="Maze Runner" width="250"/>
   </div>
 
 </div>
