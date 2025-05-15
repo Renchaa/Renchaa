@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Rencha and I'm a Unity/C# Developer</h2>
+<h2 align="left">Hi 👋! I'm Renars Paura and I'm a Unity/C# Developer</h2>
 
 <img align="right" height="180" src="https://media.giphy.com/media/l3E6F9xoxTabw3JYY/giphy.gif?cid=ecf05e47zk5fp1388a90iwdbvbuorv04b76e7t6jqjby1grf&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
