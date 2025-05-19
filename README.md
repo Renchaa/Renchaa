@@ -11,7 +11,6 @@
 </ul>
 </p>
 
-
 <p align="left">
 🧰 <strong>Unity Game Dev:</strong>
 <ul>
@@ -19,15 +18,8 @@
   <li>Particle system</li>
   <li>VFX graph</li>
   <li>Shader graph</li>
-</ul>
-
-🌐 <strong>Web App Development:</strong>
-<ul>
-  <li>C# / .NET Core</li>
-  <li>ASP.NET MVC</li>
-  <li>Entity Framework</li>
   <li>SQL</li>
-  <li>Basic front-end integration (HTML/CSS/JS)</li>
+  <li>C# / .NET</li>
 </ul>
 
 📬 <strong>Reach me at:</strong> renars_pi@inbox.lv
