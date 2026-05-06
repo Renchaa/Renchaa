@@ -22,7 +22,7 @@
   <li>C# / .NET</li>
 </ul>
 
-📬 <strong>Reach me at:</strong> renars_pi@inbox.lv
+📬 <strong>Reach me at:</strong> contact@unknown-waters.com
 </p>
 
 <div align="left">
